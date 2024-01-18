@@ -1,10 +1,12 @@
 {
   "name": "ryderdet/328/diner",
   "description": "My MVC Diner Application",
-  "authors": [{
+  "authors": [
+    {
     "name": "Ryder",
     "email":  "rldettloff@gmail.com"
-  }],
+  }
+  ],
   "require-dev": {
     "bcosca/fatfree-core": "dev-master"
   }
